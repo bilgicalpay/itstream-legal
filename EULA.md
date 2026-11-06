@@ -107,7 +107,7 @@ Müşteri;
 
 ## 5. Üçüncü taraf bileşenler
 
-Ürün, kendi lisanslarına tabi açık kaynak bileşenler içerir. Bu bileşenlerin lisans ve telif bildirimleri Ürünle gelen THIRD-PARTY-NOTICES.txt dosyasındadır. ArchiMate®, TOGAF® ve IT4IT™ The Open Group'un ticari markalarıdır.
+Ürün, kendi lisanslarına tabi açık kaynak bileşenler içerir. Bu bileşenlerin lisans ve telif bildirimleri Ürünle gelen THIRD-PARTY-NOTICES.txt dosyasındadır. IT4IT™, ArchiMate® ve TOGAF® The Open Group'un ticari markalarıdır. RDC ITStream The Open Group tarafından onaylanmış ya da sertifikalandırılmış değildir.
 
 ## 6. Fikri mülkiyet
 
@@ -268,7 +268,7 @@ The Customer shall not:
 
 ## 5. Third-party components
 
-The Product includes open-source components subject to their own licenses. Their license and copyright notices are in the THIRD-PARTY-NOTICES.txt file shipped with the Product. ArchiMate®, TOGAF® and IT4IT™ are trademarks of The Open Group.
+The Product includes open-source components subject to their own licenses. Their license and copyright notices are in the THIRD-PARTY-NOTICES.txt file shipped with the Product. IT4IT™, ArchiMate® and TOGAF® are trademarks of The Open Group. RDC ITStream is not endorsed or certified by The Open Group.
 
 ## 6. Intellectual property
 
