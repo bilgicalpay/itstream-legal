@@ -1,8 +1,8 @@
-# RDC ITStream destek politikası
+# IT-Stream destek politikası
 
 Sürüm 1.0 · 6 Kasım 2026
 
-Bu politika, RDC Partner'ın (bundan sonra "RDC") RDC ITStream eklentisi ve bağımsız RDC ITStream Sihirbazı (bundan sonra "Ürün") için verdiği desteği açıklar.
+Bu politika, RDC Partner'ın (bundan sonra "RDC") IT-Stream eklentisi ve bağımsız IT-Stream Sihirbazı (bundan sonra "Ürün") için verdiği desteği açıklar.
 
 ## 1. Destek kanalları
 
@@ -64,11 +64,11 @@ Güncel fiyatlar Marketplace sayfasının Fiyatlandırma sekmesinde ve Ürünün
 
 ---
 
-# RDC ITStream support policy
+# IT-Stream support policy
 
 Version 1.0 · 6 November 2026
 
-This policy describes the support RDC Partner ("RDC") provides for the RDC ITStream extension and the standalone RDC ITStream Wizard ("Product").
+This policy describes the support RDC Partner ("RDC") provides for the IT-Stream extension and the standalone IT-Stream Wizard ("Product").
 
 ## 1. Support channels
 

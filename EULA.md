@@ -1,12 +1,12 @@
-# RDC ITStream Son Kullanıcı Lisans Sözleşmesi
+# IT-Stream Son Kullanıcı Lisans Sözleşmesi
 
 Sürüm 1.0 · 6 Kasım 2026
 
-Bu sözleşme, RDC Partner (Azure DevOps Marketplace yayıncı kimliği RDCPartner; bundan sonra "RDC") ile RDC ITStream eklentisini kuran ya da kullanan kurum (bundan sonra "Müşteri") arasındadır. Eklentiyi kurarak ya da kullanarak Müşteri bu sözleşmeyi kabul eder. Sözleşmenin Türkçe ve İngilizce metinleri arasında fark olursa Türkçe metin esas alınır.
+Bu sözleşme, RDC Partner (Azure DevOps Marketplace yayıncı kimliği RDCPartner; bundan sonra "RDC") ile IT-Stream eklentisini kuran ya da kullanan kurum (bundan sonra "Müşteri") arasındadır. Eklentiyi kurarak ya da kullanarak Müşteri bu sözleşmeyi kabul eder. Sözleşmenin Türkçe ve İngilizce metinleri arasında fark olursa Türkçe metin esas alınır.
 
 ## 1. Tanımlar
 
-- **Ürün:** Azure DevOps Marketplace'te "RDC ITStream" adıyla yayımlanan eklenti, eklentiyle gelen bağımsız RDC ITStream Sihirbazı, komut satırı aracı, belgeler ve bunların güncellemeleri.
+- **Ürün:** Azure DevOps Marketplace'te "IT-Stream" adıyla yayımlanan eklenti, eklentiyle gelen bağımsız IT-Stream Sihirbazı, komut satırı aracı, belgeler ve bunların güncellemeleri.
 - **Lisans anahtarı:** RDC'nin imzaladığı ve Ürünün hangi modüllerinin, kaç etkin kullanıcıyla ve hangi tarihe kadar kullanılacağını belirleyen anahtar.
 - **Etkin kullanıcı:** Son 30 günde Ürünün bir modülünü kullanan ayrı kişi.
 - **Fiyat listesi:** Ürünün Marketplace sayfasındaki Fiyatlandırma sekmesinde ve Ürünün içindeki "Fiyat listesi (USD)" panelinde yayımlanan güncel fiyatlar, paketler, deneme ve ücretsiz lisans koşulları.
@@ -26,7 +26,7 @@ Bu sözleşme, RDC Partner (Azure DevOps Marketplace yayıncı kimliği RDCPartn
 
 ### Fiyatlandırma
 
-**RDC ITStream ücretli bir üründür.** 30 gün boyunca bütün Enterprise modülleri ücretsiz denenir; deneme için anahtar gerekmez. 50 kişiden az kurumlar, start-up'lar ve akademik kurumlar için ücretsiz lisans verilir.
+**IT-Stream ücretli bir üründür.** 30 gün boyunca bütün Enterprise modülleri ücretsiz denenir; deneme için anahtar gerekmez. 50 kişiden az kurumlar, start-up'lar ve akademik kurumlar için ücretsiz lisans verilir.
 
 Fiyatlar etkin kullanıcı başına aylık USD'dir ve yıllık faturalanır. Etkin kullanıcı, son 30 günde modülü kullanan ayrı kişidir.
 
@@ -107,7 +107,7 @@ Müşteri;
 
 ## 5. Üçüncü taraf bileşenler
 
-Ürün, kendi lisanslarına tabi açık kaynak bileşenler içerir. Bu bileşenlerin lisans ve telif bildirimleri Ürünle gelen THIRD-PARTY-NOTICES.txt dosyasındadır. IT4IT™, ArchiMate® ve TOGAF® The Open Group'un ticari markalarıdır. RDC ITStream The Open Group tarafından onaylanmış ya da sertifikalandırılmış değildir.
+Ürün, kendi lisanslarına tabi açık kaynak bileşenler içerir. Bu bileşenlerin lisans ve telif bildirimleri Ürünle gelen THIRD-PARTY-NOTICES.txt dosyasındadır. IT4IT™, ArchiMate® ve TOGAF® The Open Group'un ticari markalarıdır. IT-Stream The Open Group tarafından onaylanmış ya da sertifikalandırılmış değildir.
 
 ## 6. Fikri mülkiyet
 
@@ -159,15 +159,15 @@ RDC Partner · it4it@rdc.com.tr
 
 ---
 
-# RDC ITStream End User License Agreement
+# IT-Stream End User License Agreement
 
 Version 1.0 · 6 November 2026
 
-This agreement is between RDC Partner (Azure DevOps Marketplace publisher ID RDCPartner; "RDC") and the organization that installs or uses the RDC ITStream extension ("Customer"). By installing or using the extension the Customer accepts this agreement. If the Turkish and English texts differ, the Turkish text prevails.
+This agreement is between RDC Partner (Azure DevOps Marketplace publisher ID RDCPartner; "RDC") and the organization that installs or uses the IT-Stream extension ("Customer"). By installing or using the extension the Customer accepts this agreement. If the Turkish and English texts differ, the Turkish text prevails.
 
 ## 1. Definitions
 
-- **Product:** the extension published on the Azure DevOps Marketplace as "RDC ITStream", the standalone RDC ITStream Wizard, the command-line tool, the documentation shipped with it and their updates.
+- **Product:** the extension published on the Azure DevOps Marketplace as "IT-Stream", the standalone IT-Stream Wizard, the command-line tool, the documentation shipped with it and their updates.
 - **License key:** the key signed by RDC that defines which modules of the Product may be used, for how many active users and until which date.
 - **Active user:** a distinct person who used a module of the Product in the last 30 days.
 - **Price list:** the current prices, bundles, trial and free license terms published on the Pricing tab of the Product's Marketplace page and in the "Fiyat listesi (USD)" panel inside the Product.
@@ -187,7 +187,7 @@ This agreement is between RDC Partner (Azure DevOps Marketplace publisher ID RDC
 
 ### Pricing
 
-**RDC ITStream is a paid product.** All Enterprise modules can be tried free of charge for 30 days; no key is needed for the trial. Free licenses are granted to organizations with fewer than 50 people, start-ups and academic institutions.
+**IT-Stream is a paid product.** All Enterprise modules can be tried free of charge for 30 days; no key is needed for the trial. Free licenses are granted to organizations with fewer than 50 people, start-ups and academic institutions.
 
 Prices are in USD per active user per month and billed annually. An active user is a distinct person who used the module in the last 30 days.
 
@@ -268,7 +268,7 @@ The Customer shall not:
 
 ## 5. Third-party components
 
-The Product includes open-source components subject to their own licenses. Their license and copyright notices are in the THIRD-PARTY-NOTICES.txt file shipped with the Product. IT4IT™, ArchiMate® and TOGAF® are trademarks of The Open Group. RDC ITStream is not endorsed or certified by The Open Group.
+The Product includes open-source components subject to their own licenses. Their license and copyright notices are in the THIRD-PARTY-NOTICES.txt file shipped with the Product. IT4IT™, ArchiMate® and TOGAF® are trademarks of The Open Group. IT-Stream is not endorsed or certified by The Open Group.
 
 ## 6. Intellectual property
 

@@ -1,8 +1,8 @@
-# RDC ITStream gizlilik bildirimi
+# IT-Stream gizlilik bildirimi
 
 Sürüm 1.0 · 6 Kasım 2026
 
-Bu bildirim, Azure DevOps eklentisi "RDC ITStream" ile bağımsız RDC ITStream Sihirbazının (bundan sonra "Ürün") hangi verileri nerede sakladığını ve RDC Partner'a (bundan sonra "RDC") neleri gönderdiğini açıklar.
+Bu bildirim, Azure DevOps eklentisi "IT-Stream" ile bağımsız IT-Stream Sihirbazının (bundan sonra "Ürün") hangi verileri nerede sakladığını ve RDC Partner'a (bundan sonra "RDC") neleri gönderdiğini açıklar.
 
 ## 1. Veri sorumlusu
 
@@ -58,11 +58,11 @@ RDC bu bildirimi güncelleyebilir. Güncel sürüm Ürünle ve Marketplace sayfa
 
 ---
 
-# RDC ITStream privacy notice
+# IT-Stream privacy notice
 
 Version 1.0 · 6 November 2026
 
-This notice explains which data the Azure DevOps extension "RDC ITStream" and the standalone RDC ITStream Wizard ("Product") store and where, and what they send to RDC Partner ("RDC").
+This notice explains which data the Azure DevOps extension "IT-Stream" and the standalone IT-Stream Wizard ("Product") store and where, and what they send to RDC Partner ("RDC").
 
 ## 1. Data controller
 
