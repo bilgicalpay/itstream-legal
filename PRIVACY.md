@@ -44,11 +44,15 @@ Müşteri Ürünü test platformu, kayıt sistemleri (ör. ITSM, CMDB, GRC) ya d
 - Müşterinin kurumundaki veriler, Müşteri silene ya da eklentiyi ve verisini kaldırana kadar Azure DevOps'ta kalır.
 - RDC'ye lisans başvurusuyla iletilen bilgiler lisans ilişkisi süresince ve yürürlükteki mevzuatın öngördüğü süre boyunca saklanır, sonra silinir ya da anonim hâle getirilir.
 
-## 7. Haklarınız
+## 7. Verinin korunması ve sorumluluk
+
+Ürünün verisi Azure DevOps Services kullanıldığında Microsoft'un sistemlerinde, Azure DevOps Server kullanıldığında Müşterinin kendi yönettiği sunucularda barındırılır. Verinin yedeklenmesi, saklanması, silinmesi ve korunması Müşterinin ve barındırma hizmetini sağlayanın sorumluluğundadır; RDC bu konularda ve bu sistemlerde meydana gelen güvenlik ihlallerinde sorumluluk kabul etmez. Ayrıntılar son kullanıcı lisans sözleşmesinin "Sorumluluk reddi" bölümündedir.
+
+## 8. Haklarınız
 
 KVKK ve uygulanabildiği ölçüde GDPR kapsamında kişisel verilerinize erişme, düzeltme, silme, işlemeyi kısıtlama, itiraz etme ve veri taşınabilirliği haklarınız vardır. Taleplerinizi it4it@rdc.com.tr adresine iletin. Müşterinin Azure DevOps kurumundaki verilerle ilgili talepler için kurumunuzun yöneticisine başvurun.
 
-## 8. Değişiklikler
+## 9. Değişiklikler
 
 RDC bu bildirimi güncelleyebilir. Güncel sürüm Ürünle ve Marketplace sayfasıyla yayımlanır.
 
@@ -100,10 +104,14 @@ If the Customer connects the Product to systems such as a test platform, systems
 - Data in the Customer's organization stays in Azure DevOps until the Customer deletes it or removes the extension and its data.
 - Information sent to RDC with a license application is kept for the duration of the license relationship and for the period required by applicable law, and is then deleted or anonymized.
 
-## 7. Your rights
+## 7. Data protection and responsibility
+
+Product data is hosted on Microsoft's systems when Azure DevOps Services is used, and on servers the Customer manages when Azure DevOps Server is used. Backing up, retaining, deleting and protecting data is the responsibility of the Customer and of the hosting provider; RDC accepts no responsibility for these matters or for security breaches in these systems. Details are in the "Disclaimer of responsibility" section of the end user license agreement.
+
+## 8. Your rights
 
 Under the Turkish Personal Data Protection Law (KVKK) and, where applicable, the GDPR you have the rights of access, rectification, erasure, restriction of processing, objection and data portability. Send requests to it4it@rdc.com.tr. For data in the Customer's Azure DevOps organization, contact your organization's administrator.
 
-## 8. Changes
+## 9. Changes
 
 RDC may update this notice. The current version is published with the Product and on the Marketplace page.

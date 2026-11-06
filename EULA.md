@@ -121,27 +121,39 @@ Destek it4it@rdc.com.tr adresinden verilir. RDC, Ürünü Marketplace üzerinden
 
 Ürün "olduğu gibi" sunulur. Yürürlükteki hukukun izin verdiği ölçüde RDC; Ürünün kesintisiz ya da hatasız çalışacağına, belirli bir amaca uygun olduğuna ya da Müşterinin uyum yükümlülüklerini tek başına karşılayacağına dair açık ya da örtülü hiçbir garanti vermez. Ürünün ürettiği öneriler, kapı denetimleri ve raporlar Müşterinin kararlarına yardımcıdır; kararların sorumluluğu Müşteridedir.
 
-## 9. Sorumluluğun sınırlandırılması
+## 9. Sorumluluk reddi
+
+9.1. Ürünün bütün verisi Müşterinin seçtiği platformda barındırılır: Azure DevOps Services kullanıldığında Microsoft'un sistemlerinde, Azure DevOps Server kullanıldığında Müşterinin kendi yönettiği sunucularda. RDC bu sistemleri işletmez, yönetmez ve bu sistemlerdeki veriye erişmez.
+
+9.2. Verinin yedeklenmesi, saklanması, silinmesi, geri yüklenmesi ve korunması Müşterinin ve barındırma hizmetini sağlayanın (Microsoft ya da Müşteri) sorumluluğundadır. RDC bu konularda hiçbir durumda sorumluluk kabul etmez.
+
+9.3. Ürünün yaptığı hesaplamalar (ör. maliyet, bütçe, kapasite, efor, risk puanı, teslimat performansı metrikleri (DORA)), kurallar, kapı denetimleri, öneriler ve raporlar yardımcı niteliktedir. Müşteri bunları kullanmadan önce kontrol etmeli ve doğrulamalıdır. Hesaplama, kural, yapılandırma ya da sistem hatalarından ve bunlara dayanılarak alınan kararların sonuçlarından RDC sorumlu değildir.
+
+9.4. Müşterinin Azure DevOps kurumunda, sunucularında, ağında, kimlik sistemlerinde ya da bağladığı üçüncü taraf hizmetlerinde meydana gelen güvenlik ihlallerinden, yetkisiz erişimden, veri sızıntısından ve veri kaybından RDC sorumlu değildir.
+
+9.5. Bu bölüm yürürlükteki hukukun izin verdiği en geniş ölçüde uygulanır. Emredici hukuk kuralları gereği kaldırılamayan sorumluluklar (ör. kast ve ağır kusur) saklıdır.
+
+## 10. Sorumluluğun sınırlandırılması
 
 Yürürlükteki hukukun izin verdiği ölçüde RDC; dolaylı zararlardan, kâr, gelir, veri ya da itibar kaybından sorumlu değildir. RDC'nin bu sözleşmeden doğan toplam sorumluluğu, zarara yol açan olaydan önceki 12 ayda Müşterinin Ürün için RDC'ye ödediği ücretlerle sınırlıdır. Bu sınırlama kast ve ağır kusur hâllerinde uygulanmaz.
 
-## 10. Süre ve sona erme
+## 11. Süre ve sona erme
 
-10.1. Sözleşme, Ürünün kurulmasıyla başlar ve Lisans anahtarının süresi boyunca ya da Ürün kurulu kaldıkça sürer.
+11.1. Sözleşme, Ürünün kurulmasıyla başlar ve Lisans anahtarının süresi boyunca ya da Ürün kurulu kaldıkça sürer.
 
-10.2. Müşteri, Ürünü kaldırarak sözleşmeyi dilediği zaman sona erdirebilir. RDC, Müşteri bu sözleşmeye aykırı davranır ve aykırılığı yazılı bildirimden sonra 30 gün içinde gidermezse sözleşmeyi sona erdirebilir.
+11.2. Müşteri, Ürünü kaldırarak sözleşmeyi dilediği zaman sona erdirebilir. RDC, Müşteri bu sözleşmeye aykırı davranır ve aykırılığı yazılı bildirimden sonra 30 gün içinde gidermezse sözleşmeyi sona erdirebilir.
 
-10.3. Sözleşme sona erince Müşteri Ürünü kullanmayı bırakır. Müşteri verisi Müşterinin Azure DevOps kurumunda kalır.
+11.3. Sözleşme sona erince Müşteri Ürünü kullanmayı bırakır. Müşteri verisi Müşterinin Azure DevOps kurumunda kalır.
 
-## 11. Sözleşmede değişiklik
+## 12. Sözleşmede değişiklik
 
 RDC bu sözleşmeyi değiştirebilir. Yeni sürüm Marketplace sayfasında yayımlanır ve yayımlandıktan sonraki ilk lisans yenilemesinden ya da Ürünün güncellenmesinden itibaren geçerli olur.
 
-## 12. Uygulanacak hukuk ve yetkili mahkeme
+## 13. Uygulanacak hukuk ve yetkili mahkeme
 
 Bu sözleşmeye Türkiye Cumhuriyeti hukuku uygulanır. Sözleşmeden doğan uyuşmazlıklarda İstanbul (Çağlayan) Mahkemeleri ve İcra Daireleri yetkilidir.
 
-## 13. İletişim
+## 14. İletişim
 
 RDC Partner · it4it@rdc.com.tr
 
@@ -270,26 +282,38 @@ Support is provided at it4it@rdc.com.tr. RDC may update the Product through the 
 
 The Product is provided "as is". To the extent permitted by applicable law RDC gives no express or implied warranty that the Product will operate without interruption or error, is fit for a particular purpose, or alone satisfies the Customer's compliance obligations. Recommendations, gate checks and reports produced by the Product support the Customer's decisions; the Customer remains responsible for those decisions.
 
-## 9. Limitation of liability
+## 9. Disclaimer of responsibility
+
+9.1. All Product data is hosted on the platform the Customer chooses: on Microsoft's systems when Azure DevOps Services is used, and on servers the Customer manages when Azure DevOps Server is used. RDC does not operate or manage these systems and has no access to the data in them.
+
+9.2. Backing up, retaining, deleting, restoring and protecting data is the responsibility of the Customer and of the hosting provider (Microsoft or the Customer). RDC accepts no responsibility for these matters under any circumstances.
+
+9.3. Calculations made by the Product (for example cost, budget, capacity, effort, risk scores and delivery performance (DORA) metrics), rules, gate checks, recommendations and reports are aids. The Customer must check and verify them before relying on them. RDC is not responsible for calculation, rule, configuration or system errors or for the consequences of decisions based on them.
+
+9.4. RDC is not responsible for security breaches, unauthorized access, data leaks or data loss occurring in the Customer's Azure DevOps organization, servers, network, identity systems or connected third-party services.
+
+9.5. This section applies to the fullest extent permitted by applicable law. Liability that cannot be excluded under mandatory law (for example for intent or gross negligence) is not affected.
+
+## 10. Limitation of liability
 
 To the extent permitted by applicable law RDC is not liable for indirect damages or for loss of profit, revenue, data or reputation. RDC's total liability under this agreement is limited to the fees the Customer paid RDC for the Product in the 12 months before the event giving rise to the claim. This limitation does not apply to intent or gross negligence.
 
-## 10. Term and termination
+## 11. Term and termination
 
-10.1. The agreement starts when the Product is installed and lasts for the term of the License key or for as long as the Product remains installed.
+11.1. The agreement starts when the Product is installed and lasts for the term of the License key or for as long as the Product remains installed.
 
-10.2. The Customer may terminate the agreement at any time by uninstalling the Product. RDC may terminate the agreement if the Customer breaches it and does not cure the breach within 30 days of written notice.
+11.2. The Customer may terminate the agreement at any time by uninstalling the Product. RDC may terminate the agreement if the Customer breaches it and does not cure the breach within 30 days of written notice.
 
-10.3. When the agreement ends the Customer stops using the Product. Customer data remains in the Customer's Azure DevOps organization.
+11.3. When the agreement ends the Customer stops using the Product. Customer data remains in the Customer's Azure DevOps organization.
 
-## 11. Changes to this agreement
+## 12. Changes to this agreement
 
 RDC may change this agreement. The new version is published on the Marketplace page and applies from the first license renewal or Product update after its publication.
 
-## 12. Governing law and jurisdiction
+## 13. Governing law and jurisdiction
 
 This agreement is governed by the laws of the Republic of Türkiye. The Istanbul (Çağlayan) Courts and Enforcement Offices have jurisdiction over disputes arising from it.
 
-## 13. Contact
+## 14. Contact
 
 RDC Partner · it4it@rdc.com.tr
