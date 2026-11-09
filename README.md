@@ -6,6 +6,8 @@ Public policy documents for RDC Partner's Azure DevOps extension IT-Stream.
 - [Gizlilik bildirimi / Privacy notice](PRIVACY.md)
 - [Son kullanıcı lisans sözleşmesi / End user license agreement](EULA.md)
 - [Destek politikası / Support policy](SUPPORT.md)
+- [Başlarken / Getting started](GETTING-STARTED.md)
+- [Öğrenme kaynakları / Learning resources](LEARN.md)
 
 İletişim / Contact: it4it@rdc.com.tr
 
