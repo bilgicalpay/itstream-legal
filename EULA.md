@@ -1,6 +1,6 @@
 # IT-Stream Son Kullanıcı Lisans Sözleşmesi
 
-Sürüm 2.2 · 23 Kasım 2026 · Sürüm 2.1'in (20 Kasım 2026) yerini alır
+Sürüm 2.3 · 24 Kasım 2026 · Sürüm 2.2'nin (23 Kasım 2026) yerini alır
 
 Bu sözleşme, RDC Partner (Azure DevOps Marketplace yayıncı kimliği RDCPartner; bundan sonra "RDC") ile IT-Stream'i kuran ya da kullanan kurum (bundan sonra "Müşteri") arasındadır.
 
@@ -188,7 +188,20 @@ Platform'la birlikte alınan ücretli ürünler ve ekler sayılır; ücretsiz Go
 - destek ve sayım özeti yazışmaları;
 - Azure DevOps Marketplace'in Microsoft'un koşullarıyla yayıncıya sağladığı kurulum bilgileri.
 
-Kurum yöneticisi Ürünün içinden deneme lisansı aldığında Ürün, lisans sunucusuna Azure DevOps kurumunun ya da sunucusunun adını ve eklentinin sürümünü gönderir; yönetici şirket adı, kişi adı ya da e-posta adresi yazarsa bunlar da gönderilir. Lisans sahibi değişirse Müşteri yeni kişiyi RDC'ye bildirir.
+Kurum yöneticisi Ürünün içinden deneme lisansı istediğinde Ürün, isteği göndermeden önce aşağıdaki bilgilerin tam listesini ve değerlerini gösterir. Yönetici onaylarsa bilgiler lisans sunucusuna gönderilir:
+
+| İstek alanı | Örnek | Amaç |
+| :--- | :--- | :--- |
+| Azure DevOps kurumunun ya da sunucusunun adı | `ornek-kurum` | Lisanslı ortamın belirlenmesi |
+| Eklenti sürümü | 0.9.254 | Destek ve uyumluluk |
+| İsteği yapan kişinin görünen adı | Ayşe Yılmaz | Lisans sahibinin kaydı |
+| İsteği yapan kişinin e-posta adresi | Oturumdaki kullanıcının e-posta adresi | Lisans bildirimleri ve iletişim |
+| İsteği yapan kişinin Azure DevOps kullanıcı kimliği | Kullanıcının kimliği (GUID) | İsteğin kişiyle eşlenmesi |
+| Kurumdaki kullanıcı sayısı | 245 | Lisans boyutlandırma ve fiyat teklifi |
+| Kurumdaki proje sayısı | 12 | Lisans boyutlandırma ve kurulum desteği |
+| Son 30 günün etkin kullanıcı sayısı | 42 | Lisans boyutlandırma ve fiyat teklifi |
+
+Okunamayan bilgi gönderilmez ve istek o bilgi olmadan gider; örneğin eklentinin kurum kullanıcılarını okuma izni onaylanmadıysa kurumdaki kullanıcı sayısı gönderilmez. RDC bu bilgileri lisans boyutlandırma, fiyat teklifi ve kurulum desteği için kullanır ve lisans kaydında Lisans sahibi bilgisiyle birlikte 9.4. maddedeki süre boyunca saklar. Lisans sahibi değişirse Müşteri yeni kişiyi RDC'ye bildirir.
 
 5.8. **Doğrulama hakkı.** RDC, kullanım bildirimleri lisans kapsamının aşıldığını gösterirse Müşteriden açıklama ve sayım özeti isteyebilir. RDC, Müşterinin sistemlerine erişmez ve yerinde ya da uzaktan denetim yapmaz.
 
@@ -227,7 +240,7 @@ Müşteri;
 
 9.2. RDC'ye 5.3., 5.6. ve 5.7. maddelerde sayılan veriler ile Müşterinin destek ya da başka bir amaçla RDC'ye kendisi ilettiği bilgiler ulaşır. 5.7. maddedeki Lisans sahibi bilgisi kişisel veridir. Kullanım bildirimi ve sayım özeti lisans kimliğiyle lisans kaydına bağlandığı için RDC bunları Lisans sahibi bilgisiyle birlikte işler. Kabul kaydı (Kabul paragrafı) ve etkin kullanıcı sayımının kayıtları (5.2.) Müşterinin kurumunda kalır.
 
-9.3. RDC bu verileri yalnız lisans vermek ve yönetmek, lisans kapsamına uyumu izlemek, faturalamak, lisansla ilgili bildirimleri (bitiş, yenileme, koltuk ve kullanım bildirimi uyarıları) göndermek, destek vermek ve Müşteriyle iletişim kurmak için işler; pazarlama amacıyla üçüncü kişilere aktarmaz. İşlemenin KVKK ve GDPR bakımından hukuki dayanakları şunlardır: bu sözleşmenin kurulması ve ifası, faturalama ve muhasebe kayıtlarında RDC'nin hukuki yükümlülüğü ve RDC'nin lisans haklarını korumadaki meşru menfaati.
+9.3. RDC bu verileri yalnız lisans vermek ve yönetmek, lisansı boyutlandırmak ve fiyat teklifi hazırlamak, lisans kapsamına uyumu izlemek, faturalamak, lisansla ilgili bildirimleri (bitiş, yenileme, koltuk ve kullanım bildirimi uyarıları) göndermek, kurulum desteği ve destek vermek ve Müşteriyle iletişim kurmak için işler; pazarlama amacıyla üçüncü kişilere aktarmaz. İşlemenin KVKK ve GDPR bakımından hukuki dayanakları şunlardır: bu sözleşmenin kurulması ve ifası, faturalama ve muhasebe kayıtlarında RDC'nin hukuki yükümlülüğü ve RDC'nin lisans haklarını korumadaki meşru menfaati.
 
 9.4. RDC, kişisel verileri yürürlükteki veri koruma mevzuatına (KVKK ve uygulanabildiği ölçüde GDPR) uygun işler. Lisans sahibi bilgisi lisans süresince ve lisans sona erdikten sonra 1 yıl saklanır; fatura ve muhasebe kayıtlarına giren bilgiler yürürlükteki mevzuatın öngördüğü süre boyunca saklanır. Süre dolunca bilgiler silinir ya da anonim hâle getirilir. Ayrıntılar, veri sahiplerinin hakları ve başvuru yolu Ürünle gelen gizlilik bildirimindedir (PRIVACY.md). Kişisel verilerle ilgili talepler it4it@rdc.com.tr adresine iletilir.
 
@@ -287,6 +300,7 @@ Müşteri;
 | 2.0 | 19 Kasım 2026 | Kabul ve ilk açılış bildirimi; koltuk tanımı ve teknik uygulama; deneme ve yenileme koşulları; zorunlu kullanım bildirimi; standartlara atıf; fesih ve değişiklik usulü |
 | 2.1 | 20 Kasım 2026 | Deneme kilitli sayfadan tek adımda başlar; deneme ve kilitleme koşulları kesin kipe getirildi; lisansta olmayan sekmelerin gizlenmesi |
 | 2.2 | 23 Kasım 2026 | Lisans sahibi tanımı; Lisans sahibi bilgisinin RDC'ye ulaştığı yollar, işleme amaçları, hukuki dayanağı ve saklama süresi (5.7., 9.2.–9.4.); 5.4. maddedeki kullanım bildirimi cümlesi etkin kullanıcılarla sınırlandı ve bildirimin lisans kaydıyla bağı yazıldı; bildirimler Lisans sahibine yapılır (16.5.) |
+| 2.3 | 24 Kasım 2026 | Deneme lisansı isteğinin taşıdığı bilgiler: isteği yapan kişinin adı, e-posta adresi ve Azure DevOps kullanıcı kimliği, kurumdaki kullanıcı ve proje sayısı, etkin kullanıcı sayısı; bilgilerin istekten önce gösterilmesi, amacı ve saklanması (5.7.); işleme amaçlarına lisans boyutlandırma, fiyat teklifi ve kurulum desteği eklendi (9.3.) |
 
 ## 15. Uygulanacak hukuk ve yetkili mahkeme
 
@@ -312,7 +326,7 @@ RDC Partner · it4it@rdc.com.tr
 
 # IT-Stream End User License Agreement
 
-Version 2.2 · 23 November 2026 · Replaces version 2.1 (20 November 2026)
+Version 2.3 · 24 November 2026 · Replaces version 2.2 (23 November 2026)
 
 This agreement is between RDC Partner (Azure DevOps Marketplace publisher ID RDCPartner; "RDC") and the organization that installs or uses IT-Stream ("Customer").
 
@@ -500,7 +514,20 @@ All Enterprise modules can be tried free of charge for 30 days; the trial starts
 - support and count summary correspondence;
 - installation information that the Azure DevOps Marketplace provides to the publisher under Microsoft's terms.
 
-When an organization administrator obtains a trial license from inside the Product, the Product sends the License server the name of the Azure DevOps organization or server and the extension version; if the administrator enters a company name, contact name or e-mail address, these are sent as well. If the License owner changes, Customer notifies RDC of the new person.
+When an organization administrator requests a trial license from inside the Product, the Product shows the full list of the details below with their values before sending the request. If the administrator confirms, the details are sent to the License server:
+
+| Request field | Example | Purpose |
+| :--- | :--- | :--- |
+| Name of the Azure DevOps organization or server | `ornek-kurum` | Identifying the Licensed environment |
+| Extension version | 0.9.254 | Support and compatibility |
+| Display name of the person making the request | Ayşe Yılmaz | Recording the License owner |
+| E-mail address of the person making the request | The signed-in user's e-mail address | License notices and communication |
+| Azure DevOps user ID of the person making the request | The user's ID (GUID) | Matching the request to the person |
+| Number of users in the organization | 245 | License sizing and price quotes |
+| Number of projects in the organization | 12 | License sizing and installation support |
+| Active users in the last 30 days | 42 | License sizing and price quotes |
+
+A detail that cannot be read is not sent and the request goes without it; for example, if the extension's permission to read the organization's users has not been approved, the number of users in the organization is not sent. RDC uses these details for license sizing, price quotes and installation support, and keeps them in the license record together with the License owner details for the period in clause 9.4. If the License owner changes, Customer notifies RDC of the new person.
 
 5.8. **Right to verify.** If the usage reports show that the license scope is exceeded, RDC may ask Customer for an explanation and a count summary. RDC does not access Customer's systems and does not carry out on-site or remote audits.
 
@@ -539,7 +566,7 @@ Customer may not:
 
 9.2. The data listed in clauses 5.3, 5.6 and 5.7 reaches RDC, together with any information Customer itself sends to RDC for support or another purpose. The License owner details in clause 5.7 are personal data. Because the Usage report and the count summary are linked to the license record by the license ID, RDC processes them together with the License owner details. The acceptance record (Acceptance paragraph) and the active-user counting records (clause 5.2) stay in Customer's organization.
 
-9.3. RDC processes this data only to issue and manage licenses, monitor compliance with the license scope, invoice, send license notices (expiry, renewal, seat and usage report warnings), provide support and communicate with Customer; it does not pass it to third parties for marketing. Under KVKK and the GDPR, the legal bases for processing are the formation and performance of this agreement, RDC's legal obligations for invoicing and accounting records, and RDC's legitimate interest in protecting its license rights.
+9.3. RDC processes this data only to issue and manage licenses, size licenses and prepare price quotes, monitor compliance with the license scope, invoice, send license notices (expiry, renewal, seat and usage report warnings), provide installation support and support, and communicate with Customer; it does not pass it to third parties for marketing. Under KVKK and the GDPR, the legal bases for processing are the formation and performance of this agreement, RDC's legal obligations for invoicing and accounting records, and RDC's legitimate interest in protecting its license rights.
 
 9.4. RDC processes personal data in accordance with applicable data protection law (KVKK and, where applicable, GDPR). License owner details are kept for the term of the license and for 1 year after the license ends; information included in invoices and accounting records is kept for the period required by applicable law. When the period ends, the details are deleted or anonymized. Further details, data subject rights and how to exercise them are in the privacy notice shipped with the Product (PRIVACY.md). Requests about personal data are sent to it4it@rdc.com.tr.
 
@@ -599,6 +626,7 @@ Customer may not:
 | 2.0 | 19 November 2026 | Acceptance and first-use notice; seat definition and technical enforcement; trial and renewal terms; mandatory usage report; references to standards; termination and change procedure |
 | 2.1 | 20 November 2026 | Trial starts in one step from the locked page; trial and locking terms made definite; hiding of tabs not in the license |
 | 2.2 | 23 November 2026 | Definition of License owner; how License owner details reach RDC, purposes, legal basis and retention (5.7, 9.2–9.4); clause 5.4 on the usage report limited to active users and its link to the license record stated; notices go to the License owner (16.5) |
+| 2.3 | 24 November 2026 | Details carried by the trial license request: the requesting person's name, e-mail address and Azure DevOps user ID, the number of users and projects in the organization, the number of active users; showing the details before the request, their purpose and retention (5.7); license sizing, price quotes and installation support added to the processing purposes (9.3) |
 
 ## 15. Governing law and jurisdiction
 
